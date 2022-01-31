@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 
 <br />
 
+<h2>🏆 Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=shinokada&column=9&theme=gruvbox&no-frame=true"/>
+
+<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -50,8 +55,12 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<img align="left" alt="Pushkar Menaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=impushkar&show_icons=true&count_private=true&hide=stars,issues" />
 
+![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=impushkar&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=impushkar&theme=neon-palenight&hide_border=true)
+
+<br />
 <br />
 
 
