@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi geeks, I'm Pushkar Menaria
-## I'm a Developer, Coder and Freelancer!
+## I'm a Full Stack Developer!
 - 📚 I’m currently learning React Native. 
 - 👉 I’m looking for new Awesome opportunities as freelancer.
 - 🥅 2022 Goals: To be the better version of myself.
