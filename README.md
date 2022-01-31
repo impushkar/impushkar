@@ -28,11 +28,6 @@ Here are some ideas to get you started:
 
 <br />
 
-<h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=impushkar&column=9&theme=gruvbox&no-frame=true"/>
-
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
