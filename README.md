@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="Pushkar's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Pushkar's LinkedIn"  height="25" width="40" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" />][linkedin]
 
 <br />
 
@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 <br />
 
 <img align="left" alt="Pushkar Menaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=impushkar&show_icons=true&count_private=true&hide=stars,issues" />
-<img align="left" alt="Pushkar menaria's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=impushkar&layout=compact" />
 
 <br />
 
